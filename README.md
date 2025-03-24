@@ -161,5 +161,5 @@ SWITCH(
 - Enable real-time data updates in Power BI.
 - Introduce behavioral and demographic clustering for deeper insights.
 
-This README includes structured insights for all visualizations, enhanced details about filters and slicers, and optimized DAX code. Let me know if you need further refinements!
+
 
